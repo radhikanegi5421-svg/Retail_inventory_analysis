@@ -1,0 +1,176 @@
+SKU_ID,Product_Name,Category,Warehouse,Stock_Qty,Unit_Price,Reorder_Level,Supplier,Last_Restock_Date
+SKU1070,  Bookshelf 3-Tier  ,Furniture,WH South,144,2000.49,12,Nova Wholesale,11/01/2025
+SKU1114,Track Pants,APPAREL,WH South,225,,28,Fine Goods Pvt Ltd,15-05-2025
+SKU1097,Sneakers Unisex,footwear,WH North ,55,2481.83,40,Metro Distributors,09-01-2025
+SKU1158,Board Game,Toys, WH-South,140,3079.49,23,Nova Wholesale,13-06-2025
+SKU1058,Iron Box Steam,HOME APPLIANCES,wh-south,137,3527.26,32,Metro Distributors,23-05-2025
+SKU1001,  LED Bulb 9W  ,Electronics,WH-North,-5,1017.32,14,Prime Vendors,27-01-2025
+SKU1159,Board Game,Toys,WH-East,212,338.24,11,Global Supply Co,23/04/2025
+SKU1064,  Plastic Chair  ,Furniture,WH-West ,99,,37,Fine Goods Pvt Ltd,30-01-2025
+SKU1157,  Board Game  ,TOYS,WH-North,83,2516.69,38,Nova Wholesale,28-03-2025
+SKU1037,Stapler Small,Stationery,Warehouse North,165,542.27,38,Metro Distributors,10/05/2025
+SKU1139,Cutlery Set,Kitchenware,WH-East,297,2674.27,12,,03-04-2025
+SKU1055,Room Heater 1000W,home appliances,WH-East,-7,3298.21,13,Fine Goods Pvt Ltd,03-04-2025
+SKU1112,Formal Shirt,APPAREL,wh-west,276,1708.34,20,Global Supply Co,05/04/2025
+SKU1131,Pressure Cooker 3L,Kitchenware,WH-East,89,222.59,21,Prime Vendors,04-07-2025
+SKU1002,LED Bulb 9W,Electronics, WH-South,18,2878.28,32,,18-04-2025
+SKU1084,Running Shoes Men,footwear,WH-West ,121,,13,Prime Vendors,30-06-2025
+SKU1102,Cotton T-Shirt,APPAREL,WH South,69,2128.04,33,Sharma Traders,02/05/2025
+SKU1038,Stapler Small,Stationery,WH South,220,1547.62,33,,07-06-2025
+SKU1108,Denim Jeans,Apparel,WH-West,67,3500.75,40,Fine Goods Pvt Ltd,11-08-2025
+SKU1011,Bluetooth Speaker,electronics,Warehouse East,179,1767.32,24,Sharma Traders,04-07-2025
+SKU1016,Power Bank 10000mAh,electronics,WH-West ,39,3445.56,12,Nova Wholesale,02/03/2025
+SKU1071,Bookshelf 3-Tier,furniture,WH-East,299,131.94,34,Prime Vendors,30/07/2025
+SKU1106,Denim Jeans,Apparel,WH South,237,2931.97,20,Fine Goods Pvt Ltd,22-03-2025
+SKU1053,Room Heater 1000W,Home Appliances,WH North ,63,696.87,19,Sharma Traders,29-05-2025
+SKU1099,Sneakers Unisex,footwear,Warehouse East,237,887.82,30,Nova Wholesale,06-01-2025
+SKU1081,Running Shoes Men,FOOTWEAR,Warehouse North,82,196.23,26,Nova Wholesale,26-03-2025
+SKU1060,Iron Box Steam,Home Appliances,wh-west,193,2147.14,23,Prime Vendors,21/05/2025
+SKU1109,Formal Shirt,APPAREL,WH North ,113,1954.65,37,Sharma Traders,31-03-2025
+SKU1085,  Sandals Women  ,footwear,wh-north,33,1530.62,14,Global Supply Co,16/05/2025
+SKU1008,USB Cable Type-C,electronics,wh-west,166,2021.96,38,Prime Vendors,28-04-2025
+SKU1100,Sneakers Unisex,Footwear,WH-West,288,903.01,37,Global Supply Co,26-03-2025
+SKU1108,Denim Jeans,Apparel,WH-West,67,3500.75,40,Fine Goods Pvt Ltd,11-08-2025
+SKU1017,Wall Charger 20W,Electronics,WH-North,300,3149.25,35,Fine Goods Pvt Ltd,18-02-2025
+SKU1023,Gel Pen Blue,STATIONERY,WH-East,39,979.06,13,Nova Wholesale,05-03-2025
+SKU1136,Water Bottle 1L,Kitchenware,WH-West ,176,,19,Fine Goods Pvt Ltd,28-06-2025
+SKU1151,Puzzle 100pc,Toys,WH-East,232,3251.53,40,Metro Distributors,20/06/2025
+SKU1080,Storage Rack,Furniture,WH-West ,127,972.57,34,Fine Goods Pvt Ltd,12/01/2025
+SKU1146,  Remote Car  ,TOYS,WH South,184,2920.92,39,Metro Distributors,07/06/2025
+SKU1088,Sandals Women,FOOTWEAR,wh-west,252,1556.39,21,Nova Wholesale,17-03-2025
+SKU1098,  Sneakers Unisex  ,Footwear, WH-South,55,1500.97,38,Prime Vendors,02-04-2025
+SKU1148,Remote Car,Toys,wh-west,201,177.92,14,Prime Vendors,26/04/2025
+SKU1124,  Non-Stick Pan  ,kitchenware,WH-West,248,3833.0,24,Sharma Traders,27/07/2025
+SKU1142,Building Blocks Set,Toys, WH-South,108,837.91,11,Metro Distributors,27/08/2025
+SKU1036,Whiteboard Marker,Stationery,WH west,-15,3235.72,31,Prime Vendors,29-08-2025
+SKU1057,Iron Box Steam,Home Appliances,WH-North,235,1885.6,29,Prime Vendors,08/04/2025
+SKU1152,  Puzzle 100pc  ,Toys,WH west,94,2059.59,13,Global Supply Co,22-07-2025
+SKU1009,Bluetooth Speaker,ELECTRONICS,WH-North,224,1627.63,17,Global Supply Co,11/05/2025
+SKU1046,Table Fan 16in,Home Appliances,wh-south,114,1660.02,27,Fine Goods Pvt Ltd,17-04-2025
+SKU1082,Running Shoes Men,Footwear,WH South,214,3881.33,12,Fine Goods Pvt Ltd,20/07/2025
+SKU1047,Table Fan 16in,Home Appliances,Warehouse East,15,3074.1,22,Fine Goods Pvt Ltd,02/01/2025
+SKU1089,Formal Shoes Men,footwear,WH North ,294,3124.33,11,Nova Wholesale,10/07/2025
+SKU1135,Water Bottle 1L,KITCHENWARE,WH-East,183,1688.84,22,,06-04-2025
+SKU1083,Running Shoes Men,FOOTWEAR,WH-East,278,1300.81,32,Fine Goods Pvt Ltd,12-08-2025
+SKU1143,Building Blocks Set,Toys,Warehouse East,187,238.83,30,Metro Distributors,11-03-2025
+SKU1134,  Water Bottle 1L  ,Kitchenware,wh-south,269,1176.0,34,Global Supply Co,11/03/2025
+SKU1113,Track Pants,Apparel,Warehouse North,30,1124.81,31,Fine Goods Pvt Ltd,05-05-2025
+SKU1144,Building Blocks Set,TOYS,wh-west,202,787.93,32,,05-04-2025
+SKU1045,  Table Fan 16in  ,home appliances,WH-North,145,2868.5,17,Metro Distributors,27/03/2025
+SKU1137,Cutlery Set,Kitchenware,WH-North,115,2217.78,33,Nova Wholesale,16/05/2025
+SKU1010,Bluetooth Speaker,ELECTRONICS,WH-South,221,1569.83,29,Fine Goods Pvt Ltd,16/05/2025
+SKU1027,A4 Notebook 200pg,Stationery,wh-east ,140,472.79,27,Global Supply Co,11/03/2025
+SKU1105,Denim Jeans,Apparel,wh-north,225,2822.03,37,Prime Vendors,16-06-2025
+SKU1029,Sticky Notes Pack,STATIONERY,WH-North,139,1795.25,32,Fine Goods Pvt Ltd,24-05-2025
+SKU1090,Formal Shoes Men,FOOTWEAR,WH-South,133,2897.67,31,Prime Vendors,03-08-2025
+SKU1133,Water Bottle 1L,Kitchenware,WH-North,219,3276.72,35,Nova Wholesale,05/02/2025
+SKU1086,Sandals Women,Footwear, WH-South,128,2353.47,17,Fine Goods Pvt Ltd,13/06/2025
+SKU1132,Pressure Cooker 3L,Kitchenware,WH-West ,127,3244.06,25,Global Supply Co,05-04-2025
+SKU1032,  Sticky Notes Pack  ,Stationery,WH west,95,147.91,33,Metro Distributors,20/07/2025
+SKU1140,  Cutlery Set  ,Kitchenware,WH-West,196,114.16,35,Sharma Traders,30-03-2025
+SKU1049,Mixer Grinder 500W,HOME APPLIANCES,WH-North,89,3682.19,29,Nova Wholesale,07/01/2025
+SKU1075,Study Table,Furniture,Warehouse East,260,,16,Metro Distributors,21-05-2025
+SKU1022,Gel Pen Blue,STATIONERY,wh-south,282,1288.74,11,Nova Wholesale,03-05-2025
+SKU1158,Board Game,Toys, WH-South,140,3079.49,23,Nova Wholesale,13-06-2025
+SKU1007,USB Cable Type-C,Electronics,Warehouse East,290,1330.92,34,Sharma Traders,28-02-2025
+SKU1030,Sticky Notes Pack,Stationery,WH South,23,2350.91,14,Fine Goods Pvt Ltd,02-02-2025
+SKU1141,Building Blocks Set,TOYS,wh-north,94,,32,Fine Goods Pvt Ltd,11-06-2025
+SKU1084,Running Shoes Men,footwear,WH-West ,121,,13,Prime Vendors,30-06-2025
+SKU1034,  Whiteboard Marker  ,STATIONERY,WH South,40,1152.54,30,Nova Wholesale,13-04-2025
+SKU1129,Pressure Cooker 3L,Kitchenware,WH-North,114,3076.32,16,Global Supply Co,05-02-2025
+SKU1077,Storage Rack,furniture,Warehouse North,260,1202.85,32,Metro Distributors,17/04/2025
+SKU1004,LED Bulb 9W,Electronics,wh-west,27,,39,Fine Goods Pvt Ltd,21-01-2025
+SKU1081,Running Shoes Men,FOOTWEAR,Warehouse North,82,196.23,26,Nova Wholesale,26-03-2025
+SKU1040,Stapler Small,stationery,wh-west,48,,29,Metro Distributors,24-01-2025
+SKU1075,Study Table,Furniture,Warehouse East,260,,16,Metro Distributors,21-05-2025
+SKU1054,Room Heater 1000W,Home Appliances,WH-South,129,3101.3,37,Prime Vendors,03-06-2025
+SKU1015,  Power Bank 10000mAh  ,electronics,wh-east ,269,,12,Metro Distributors,06-01-2025
+SKU1155,Soft Toy Bear,Toys,wh-east ,68,1251.29,15,Metro Distributors,28-08-2025
+SKU1117,  Winter Jacket  ,Apparel,Warehouse North,44,2324.25,28,,01-07-2025
+SKU1048,Table Fan 16in,HOME APPLIANCES,WH-West ,284,3596.35,25,Global Supply Co,11/03/2025
+SKU1154,Soft Toy Bear,toys,wh-south,167,,31,Nova Wholesale,30-03-2025
+SKU1115,Track Pants,APPAREL,WH-East,109,884.37,14,Metro Distributors,16/03/2025
+SKU1132,Pressure Cooker 3L,Kitchenware,WH-West ,127,3244.06,25,Global Supply Co,05-04-2025
+SKU1160,Board Game,Toys,WH-West,168,3450.07,22,Global Supply Co,14/07/2025
+SKU1013,Power Bank 10000mAh,ELECTRONICS,Warehouse North,162,1001.44,28,Sharma Traders,22-01-2025
+SKU1063,Plastic Chair,FURNITURE,WH-East,32,2804.8,14,Prime Vendors,11/08/2025
+SKU1069,  Bookshelf 3-Tier  ,Furniture,WH North ,141,332.07,15,Metro Distributors,02-06-2025
+SKU1110,  Formal Shirt  ,Apparel,WH-South,292,3282.79,29,Prime Vendors,14-06-2025
+SKU1123,Non-Stick Pan,Kitchenware,WH-East,51,2052.92,24,Nova Wholesale,22-05-2025
+SKU1044,Electric Kettle 1.5L,Home Appliances,WH west,285,678.67,37,Fine Goods Pvt Ltd,26/04/2025
+SKU1076,Study Table,FURNITURE,WH west,127,1277.46,10,Nova Wholesale,15-04-2025
+SKU1039,Stapler Small,Stationery,wh-east ,225,2446.31,20,Fine Goods Pvt Ltd,24/04/2025
+SKU1095,  Sports Sandals  ,FOOTWEAR,WH-East,118,2559.85,24,Prime Vendors,19-03-2025
+SKU1107,Denim Jeans,APPAREL,wh-east ,51,418.26,13,Prime Vendors,09/07/2025
+SKU1051,Mixer Grinder 500W,HOME APPLIANCES,WH-East,281,,17,Prime Vendors,18-01-2025
+SKU1021,  Gel Pen Blue  ,stationery,Warehouse North,204,,24,Metro Distributors,19-04-2025
+SKU1041,Electric Kettle 1.5L,Home Appliances,wh-north,248,3085.53,24,Fine Goods Pvt Ltd,15-08-2025
+SKU1049,Mixer Grinder 500W,HOME APPLIANCES,WH-North,89,3682.19,29,Nova Wholesale,07/01/2025
+SKU1042,Electric Kettle 1.5L,home appliances,wh-south,7,3448.74,38,Sharma Traders,19/07/2025
+SKU1119,Winter Jacket,apparel,WH-East,163,925.21,34,Global Supply Co,20-01-2025
+SKU1125,Steel Tiffin Box,KITCHENWARE,WH North ,273,677.05,21,Metro Distributors,10/04/2025
+SKU1126,  Steel Tiffin Box  ,Kitchenware,wh-south,53,1576.93,18,Prime Vendors,07-08-2025
+SKU1020,Wall Charger 20W,Electronics,WH west,52,,15,Fine Goods Pvt Ltd,05/05/2025
+SKU1059,Iron Box Steam,Home Appliances,WH-East,128,2601.32,25,Fine Goods Pvt Ltd,22-07-2025
+SKU1067,  Folding Table  ,Furniture,WH-East,127,346.51,10,Fine Goods Pvt Ltd,26-04-2025
+SKU1061,Plastic Chair,Furniture,wh-north,103,2984.38,40,Prime Vendors,17-02-2025
+SKU1145,Remote Car,Toys,WH North ,97,1318.79,12,Metro Distributors,19/06/2025
+SKU1043,Electric Kettle 1.5L,Home Appliances,Warehouse East,290,3400.93,24,Global Supply Co,25/07/2025
+SKU1092,Formal Shoes Men,Footwear,WH-West,136,3779.54,40,Metro Distributors,11/07/2025
+SKU1018,Wall Charger 20W,ELECTRONICS,WH South,32,3937.45,13,Sharma Traders,14-04-2025
+SKU1005,USB Cable Type-C,Electronics,Warehouse North,121,3941.63,37,Global Supply Co,10-08-2025
+SKU1122,  Non-Stick Pan  ,Kitchenware, WH-South,160,2386.11,21,Nova Wholesale,19/01/2025
+SKU1148,Remote Car,Toys,wh-west,201,177.92,14,Prime Vendors,26/04/2025
+SKU1065,Folding Table,furniture,Warehouse North,81,3799.05,12,Global Supply Co,31-01-2025
+SKU1052,Mixer Grinder 500W,Home Appliances,WH-West ,83,1920.57,13,Nova Wholesale,31-08-2025
+SKU1066,Folding Table,furniture,WH-South,157,3960.62,19,Nova Wholesale,08-06-2025
+SKU1078,Storage Rack,Furniture,WH South,265,589.21,12,Metro Distributors,17/07/2025
+SKU1026,A4 Notebook 200pg,Stationery,WH-South,194,1780.83,27,Prime Vendors,19-03-2025
+SKU1037,Stapler Small,Stationery,Warehouse North,165,542.27,38,Metro Distributors,10/05/2025
+SKU1147,  Remote Car  ,toys,WH-East,86,613.98,29,Prime Vendors,20/07/2025
+SKU1087,Sandals Women,Footwear,WH-East,152,674.0,24,Metro Distributors,31/05/2025
+SKU1096,Sports Sandals,Footwear,wh-west,257,977.46,27,Global Supply Co,10/04/2025
+SKU1041,Electric Kettle 1.5L,Home Appliances,wh-north,248,3085.53,24,Fine Goods Pvt Ltd,15-08-2025
+SKU1025,A4 Notebook 200pg,stationery,WH North ,239,2273.82,13,Sharma Traders,18-05-2025
+SKU1033,  Whiteboard Marker  ,stationery,wh-north,24,928.61,36,Fine Goods Pvt Ltd,31/03/2025
+SKU1031,Sticky Notes Pack,stationery,WH-East,188,1035.64,13,Metro Distributors,19-07-2025
+SKU1072,Bookshelf 3-Tier,Furniture,wh-west,97,1771.75,36,Fine Goods Pvt Ltd,24/01/2025
+SKU1116,Track Pants,Apparel,WH-West,277,,36,,26/07/2025
+SKU1064,  Plastic Chair  ,Furniture,WH-West ,99,,37,Fine Goods Pvt Ltd,30-01-2025
+SKU1099,Sneakers Unisex,footwear,Warehouse East,237,887.82,30,Nova Wholesale,06-01-2025
+SKU1019,Wall Charger 20W,ELECTRONICS,WH-East,221,,37,Sharma Traders,24-04-2025
+SKU1156,Soft Toy Bear,TOYS,wh-west,45,2558.48,27,Metro Distributors,02-02-2025
+SKU1093,Sports Sandals,Footwear,WH-North,208,3228.12,21,Sharma Traders,22/07/2025
+SKU1050,Mixer Grinder 500W,Home Appliances,WH South,30,,24,Metro Distributors,28/03/2025
+SKU1014,Power Bank 10000mAh,Electronics,wh-south,248,702.25,26,Nova Wholesale,19-04-2025
+SKU1103,Cotton T-Shirt,APPAREL,WH-East,271,2591.2,10,Sharma Traders,03/05/2025
+SKU1012,Bluetooth Speaker,Electronics,WH-West,264,653.72,34,Global Supply Co,19-05-2025
+SKU1149,Puzzle 100pc,Toys,wh-north,208,1150.82,40,Sharma Traders,07-01-2025
+SKU1104,Cotton T-Shirt,Apparel,wh-west,46,635.92,14,Metro Distributors,09-06-2025
+SKU1094,  Sports Sandals  ,Footwear,wh-south,139,3298.55,40,Metro Distributors,28-01-2025
+SKU1068,  Folding Table  ,Furniture,WH west,237,972.02,18,Prime Vendors,31-05-2025
+SKU1035,Whiteboard Marker,STATIONERY,WH-East,140,2406.46,21,Prime Vendors,21/07/2025
+SKU1111,Formal Shirt,apparel,WH-East,178,766.55,14,Nova Wholesale,18/06/2025
+SKU1028,  A4 Notebook 200pg  ,STATIONERY,wh-west,255,3637.23,11,Sharma Traders,12/06/2025
+SKU1003,LED Bulb 9W,ELECTRONICS,WH-East,221,664.14,40,Metro Distributors,27-01-2025
+SKU1138,Cutlery Set,kitchenware,wh-south,239,3354.92,25,,18-05-2025
+SKU1074,  Study Table  ,Furniture, WH-South,211,3308.46,10,Prime Vendors,11-08-2025
+SKU1121,  Non-Stick Pan  ,Kitchenware,WH North ,293,1823.18,39,,14-06-2025
+SKU1153,Soft Toy Bear,Toys,Warehouse North,287,3542.77,12,Metro Distributors,12-04-2025
+SKU1127,Steel Tiffin Box,Kitchenware,WH-East,163,2809.0,22,Global Supply Co,02-06-2025
+SKU1073,  Study Table  ,Furniture,WH-North,173,2007.1,31,Fine Goods Pvt Ltd,28-07-2025
+SKU1025,A4 Notebook 200pg,stationery,WH North ,239,2273.82,13,Sharma Traders,18-05-2025
+SKU1013,Power Bank 10000mAh,ELECTRONICS,Warehouse North,162,1001.44,28,Sharma Traders,22-01-2025
+SKU1091,Formal Shoes Men,Footwear,wh-east ,72,1215.69,33,Fine Goods Pvt Ltd,14-02-2025
+SKU1150,  Puzzle 100pc  ,TOYS,wh-south,138,897.55,29,,27/06/2025
+SKU1056,Room Heater 1000W,Home Appliances,wh-west,143,3682.49,34,Fine Goods Pvt Ltd,30/04/2025
+SKU1062,Plastic Chair,FURNITURE,WH South,149,,19,Global Supply Co,03-04-2025
+SKU1118,Winter Jacket,Apparel,wh-south,240,3683.09,12,Fine Goods Pvt Ltd,05-08-2025
+SKU1130,  Pressure Cooker 3L  ,kitchenware, WH-South,274,1380.22,34,Nova Wholesale,03-02-2025
+SKU1101,Cotton T-Shirt,apparel,WH North ,133,484.21,37,,03-02-2025
+SKU1024,Gel Pen Blue,Stationery,wh-west,138,2878.96,17,Metro Distributors,12-04-2025
+SKU1006,  USB Cable Type-C  ,electronics,wh-south,186,1104.56,39,Prime Vendors,15-06-2025
+SKU1128,Steel Tiffin Box,Kitchenware,WH-West,70,3324.39,33,,22-08-2025
+SKU1079,Storage Rack,Furniture,WH-East,255,1813.86,25,Metro Distributors,27-03-2025
+SKU1128,Steel Tiffin Box,Kitchenware,WH-West,70,3324.39,33,,22-08-2025
+SKU1120,Winter Jacket,apparel,WH-West,80,628.45,16,Global Supply Co,04-06-2025
